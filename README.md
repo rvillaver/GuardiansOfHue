@@ -14,9 +14,3 @@ GoH is a cooperative game for 2 to 4 players. It uses 4 Dice[D6] (3 White, 1 Bla
 Players: 2-4
 Age: 8+
 Playing Time: 30 - 60 minutes
-
-I'd like GuardiansOfHue to be entered in the following catagories:
-Best 3 or more player Game
-Best Thematic Game (Sci Fi, Horror, Fantasy, Dungeon Crawl, etc)
-Best New Designer
-Most Innovative Mechanic Category
