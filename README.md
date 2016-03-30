@@ -3,7 +3,7 @@ The Agents of Sepia are ridding the world of color! Turning vibrant scenes of ha
 
 ![](https://raw.githubusercontent.com/rvillaver/GuardiansOfHue/master/GoH-Sample.jpg)
 
-Game Status: Work in Progress 
+Game Status: Ready
 
 Summary: 
 
